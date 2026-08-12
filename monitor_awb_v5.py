@@ -25,7 +25,7 @@ COMO CONFIGURAR (antes de rodar):
 5. Ajuste as configurações abaixo (pastas e TESSERACT_CMD se necessário).
 
 COMO RODAR:
-    python monitor_awb_v4.py
+    no caminho do arquivo: python monitor_awb_v4.py
 
 MODO DE TESTE:
 No início do script você escolhe:
